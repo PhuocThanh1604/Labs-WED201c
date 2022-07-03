@@ -1,0 +1,77 @@
+.content_1 {
+
+  padding: 15px;
+}
+.content_2 {
+    padding: 20px;
+}
+.title-item {
+    color: red;
+    margin: 50px 50px;
+}
+.input-header {
+    text-align: center;
+    margin-top: 40px;
+}
+.menu-header {
+    margin-top: 20px;
+}
+.btn-search {
+    background-color: #F76E12;
+    color: #fff;
+}
+.content {
+    margin-top: -24px;
+}
+
+.item-content {
+    background-color: white;
+    padding: 10px;
+    
+    box-shadow: 10px 10px 10px 10px grey;
+    border-radius: 10px;
+}
+.btn-content {
+color: #fff;
+background-color: #F76E12;
+padding: 18px;
+border-radius: 10px;
+}
+.item {
+   color: black;
+   font-size: 20px;
+   font-weight: 700;
+   margin-bottom: 20px;
+}
+.item-price{
+    color: red;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.footer {
+        
+        background-color: #F76E12;
+        color: #fff;
+}
+.footer-content {
+    margin: 14px;
+    line-height: 30px;
+}
+.mycode p {
+    color: gold;
+}
+.mycode table tr:first-child {
+    color: gold;
+}
+.mycode table tr td {
+    border: 1px solid white;
+}
+.sidebar {
+    color: #fff;
+    text-align: center;
+    display: none;
+    /* display: none;mất none sẽ hiện lên */
+    background-color: #333333;
+    text-align: center;
+    max-width: fit-content;
+}
